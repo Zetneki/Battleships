@@ -1,0 +1,3 @@
+D:/clion fosok/torpedo/cmake-build-debug/CMakeFiles/torpedo.dir
+D:/clion fosok/torpedo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion fosok/torpedo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
