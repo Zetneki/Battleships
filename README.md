@@ -1,6 +1,6 @@
 # Battleships
 
-In my first year of university, I made a Battleships game.
+In my first semester of university, I made a Battleships game.
 
 ## Features
 - Command-line interface
